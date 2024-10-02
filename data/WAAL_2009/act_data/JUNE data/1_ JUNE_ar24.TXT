@@ -1,0 +1,45 @@
+y
+
+TO RECEIVE THE DATA IT IS VERY IMPORTANT TO HAVE GOOD ELECTRICAL CONNECTION
+     ***  DURING THE ENTIRE DATA TRANSFER!!!  ***
+
+
+   ARE YOU READY (y/n)?>y
+TYPE DATE.  Please use format: dd/mm/yy.
+Do not use BACKSPACE key.  This is a terminal (not a word processor).
+>05/06/09
+TYPE TIME (GMT  +/- 2 minutes). Please use format: hh:mm.
+>16:00
+   Please wait for prompt ">".
+
+The timer value is:  0003D 04H 01M 57S
+07 DF 5B 21 23 9F 2C 9D 25 A5 18 21 85 15 26 99 FA FC 9D 26 A0 2B 92 31 20 
+03 83 0E 14 9D 02 95 2A 18 29 9D 
+
+
+07 7C C8 81 A6 04 88 FB 03 30 8D A6 00 02 80 03 00 02 80 54 02 A9 FB 03 20 
+82 76 00 13 81 CF 00 02 80 86 00 30 81 17 00 46 FB 03 20 82 3E 00 25 FB 03 
+20 82 69 1E 83 80 05 05 57 80 07 01 79 80 05 00 15 80 71 00 2F 80 A1 00 04 
+80 1E 00 37 80 0D 00 2B 81 3D 00 2A 81 1F 00 31 81 A6 00 08 80 0A 00 0C 80 
+48 00 06 81 3C 00 08 80 08 00 0A 80 98 00 05 80 3A 00 0A 80 35 00 08 81 4D 
+00 04 81 B4 00 02 80 9B 00 03 81 59 00 05 81 7D 00 02 80 CF 00 02 80 0A 00 
+06 FB 03 00 82 B8 00 08 80 3B 00 2A 80 39 00 08 80 05 00 07 80 0B 00 06 80 
+1F 00 08 80 7C 03 76 80 03 02 2C 80 02 00 02 80 08 00 A3 80 02 01 C4 80 08 
+01 2E 80 07 00 E1 80 20 00 82 80 53 00 2F 80 17 03 23 FA FC 00 5B 80 B0 01 
+9D 80 25 01 C7 80 3D 05 74 80 2F 03 24 80 C0 01 0E FB 03 30 82 CD 01 9D 80 
+4D 73 53 
+The timer value is:  0003D 04H 02M 06S
+
+You may type up to one line of text (eg. comments, recorder & animal ID, etc.).
+>AR< 24[C[C [C[C[C JUNE WA trip 1 Nest 353
+
+Do you want to STOP COLLECTING DATA AND SEND THIS RECORDER TO SLEEP (y/n)?>y
+
+  *** ALL DATA WILL BE DELETED FROM THE RECORDER!!! ***
+    ARE YOU SURE (y/n)?>n
+
+Do you want to STOP COLLECTING DATA AND SEND THIS RECORDER TO SLEEP (y/n)?>n
+   Please wait for prompt ">".
+
+Please disconnect recorder.
+Do you want to QUIT (y/n)?>

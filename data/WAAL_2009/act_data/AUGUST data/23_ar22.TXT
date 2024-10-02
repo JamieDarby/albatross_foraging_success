@@ -1,0 +1,36 @@
+y
+
+Is your computer logging the session (y/n)?>y
+
+TO RECEIVE THE DATA IT IS VERY IMPORTANT TO HAVE GOOD ELECTRICAL CONNECTION
+     ***  DURING THE ENTIRE DATA TRANSFER!!!  ***
+
+
+   ARE YOU READY (y/n)?>y
+TYPE DATE.  Please use format: dd/mm/yy.
+Do not use BACKSPACE key.  This is a terminal (not a word processor).
+>08/08/09
+TYPE TIME (GMT  +/- 2 minutes). Please use format: hh:mm.
+>17:17
+   Please wait for prompt ">".
+
+The timer value is:  0003D 07H 19M 12S
+07 C6 04 01 9E 34 98 60 B1 10 03 02 19 10 04 04 9A 27 15 1A 15 1D 07 92 03 
+80 FA FC 2A A1 0A 07 18 16 1C A4 23 18 25 15 12 0F 0F 0F 10 0B 09 02 03 82 
+12 AF 1F 1E 23 24 21 19 12 14 18 15 93 
+
+
+07 7F 00 69 40 FA FC 0C 7F 80 02 00 0B 80 15 00 1B 80 05 00 09 80 04 00 02 
+80 23 00 03 80 02 00 03 80 03 00 07 80 2C 00 02 80 1E 00 02 80 04 00 06 80 
+07 05 04 80 06 00 0B 80 1B 00 2C 80 6C 01 B1 80 27 00 A3 80 02 00 14 80 12 
+00 0C 80 0C 00 54 80 25 00 08 80 05 00 02 80 05 01 47 80 0A 00 4C 80 19 00 
+1D 80 14 00 03 80 05 00 10 80 E9 00 66 FB 02 D0 86 2D 12 05 80 1E 00 02 80 
+02 00 02 80 14 00 02 80 17 00 02 FB 02 D0 88 9D 00 02 80 0B 00 04 80 4A 00 
+08 80 02 00 04 80 06 00 02 80 1B 00 02 80 08 00 02 80 EE 00 04 81 16 00 02 
+80 1D 00 02 80 3A 00 5F FB 02 D0 85 90 53 63 
+The timer value is:  0003D 07H 19M 21S
+
+You may type up to one line of text (eg. comments, recorder & animal ID, etc.).
+>WA GPS 23 N333 August
+
+Do you want to STOP COLLECTING DATA AND SEND THIS RECORDER TO SLEEP (y/n)?>

@@ -1,0 +1,1 @@
+Prep script needs to run to load in packages and home made functions. Plotting script will use outputs of all the other scripts to build final plots.

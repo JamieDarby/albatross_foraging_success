@@ -1,0 +1,30 @@
+18/05/09
+TYPE TIME (GMT  +/- 2 minutes). Please use format: hh:mm.
+>14:37
+   Please wait for prompt ">".
+
+The timer value is:  0000D 00H 01M 54S
+07 
+
+
+07 00 27 
+The timer value is:  0000D 00H 01M 57S
+
+You may type up to one line of text (eg. comments, recorder & animal ID, etc.).
+>jose test
+
+Do you want to STOP COLLECTING DATA AND SEND THIS RECORDER TO SLEEP (y/n)?>y
+
+  *** ALL DATA WILL BE DELETED FROM THE RECORDER!!! ***
+    ARE YOU SURE (y/n)?>y
+   Please wait for prompt ">".
+
+Just two more seconds.
+
+This recorder is in a SLEEP mode.  No data is available.
+
+Do you want this recorder to START A NEW RECORD (y/n)?>n
+   Please wait for prompt ">".
+
+Please disconnect recorder.
+Do you want to QUIT (y/n)?>
